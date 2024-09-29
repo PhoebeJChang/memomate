@@ -1,0 +1,20 @@
+.component {
+  background-color: #372e7c;
+  border-radius: 15px;
+  height: 67px;
+  position: relative;
+  width: 242px;
+}
+
+.component .div {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
